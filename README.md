@@ -1,2 +1,2 @@
 # SEI_SICITE
-# Arquivos utilizados na apresnetação presentação
+# Arquivos utilizados na apresentação
